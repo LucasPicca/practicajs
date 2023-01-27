@@ -60,7 +60,7 @@ let ph = h * 100/t;
 alert("El promedio de mujeres es: " + pm + "\nEl promedio de hombres es: " + ph) */
 
 //Ejercicio 10
-let n1 = parseInt(prompt("Ingrese un número"));
+/* let n1 = parseInt(prompt("Ingrese un número"));
 let n2 = parseInt(prompt("Ingrese otro número"));
 
 let s = n1 + n2;
@@ -68,4 +68,4 @@ let r = n1 - n2;
 let m = n1 * n2;
 let d = n1/n2 ;
 
-alert(s + " " + r + " " + m + " " + d)
+alert(s + " " + r + " " + m + " " + d) */
